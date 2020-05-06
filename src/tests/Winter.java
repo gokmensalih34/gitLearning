@@ -4,7 +4,7 @@ public class Winter {
 
     public static void main(String[] args) {
 
-        System.out.println("Second class today");
+        System.out.println("Goodby winter");
 
     }
 }
