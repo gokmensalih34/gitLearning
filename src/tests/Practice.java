@@ -7,5 +7,10 @@ public class Practice {
         System.out.println("Today is good");
 
         //This part is added
+        
+        
+        
+        
+        // I added this part in github webpage
     }
 }
