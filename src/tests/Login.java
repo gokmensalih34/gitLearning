@@ -8,6 +8,11 @@ public class Login {
 
         System.out.println("2. Day");
 
+        System.out.println("Today is 12.05.2020");
+
+
+
+
 
 
 
